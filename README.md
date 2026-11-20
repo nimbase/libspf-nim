@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://openpeeps.github.io/libspf-nim">API reference</a><br>
-  <img src="https://github.com/openpeeps/libspf-nim/workflows/test/badge.svg" alt="Github Actions">  <img src="https://github.com/openpeeps/libspf-nim/workflows/docs/badge.svg" alt="Github Actions">
+  <a href="https://nimbase.github.io/libspf-nim">API reference</a><br>
+  <img src="https://github.com/nimbase/libspf-nim/workflows/test/badge.svg" alt="Github Actions">  <img src="https://github.com/nimbase/libspf-nim/workflows/docs/badge.svg" alt="Github Actions">
 </p>
 
 ### About
@@ -20,9 +20,8 @@ This library provides low-level bindings to the Sender Policy Framework (SPF) li
 Check out the [/tests](https://github.com/openpeeps/libspf-nim/tree/main/tests) directory for example usage!
 
 ### ❤ Contributions & Support
-- 🐛 Found a bug? [Create a new Issue](https://github.com/openpeeps/libspf-nim/issues)
-- 👋 Wanna help? [Fork it!](https://github.com/openpeeps/libspf-nim/fork)
-- 😎 [Get €20 in cloud credits from Hetzner](https://hetzner.cloud/?ref=Hm0mYGM9NxZ4)
+- 🐛 Found a bug? [Create a new Issue](https://github.com/nimbase/libspf-nim/issues)
+- 👋 Wanna help? [Fork it!](https://github.com/nimbase/libspf-nim/fork)
 
 ### 🎩 License
 MIT license. [Made by Humans from OpenPeeps](https://github.com/openpeeps).<br>
